@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "todo": "Make Money",
+      "time": ""
+    },
+    {
+      "todo": "Make Laundry",
+      "time": "",
+      "id": 1
+    },
+    {
+      "todo": "Make Cake",
+      "time": "",
+      "id": 2
+    }
+  ]
+}
